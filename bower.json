@@ -1,0 +1,15 @@
+{
+  "name": "library",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Vijay Vankhede"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/vsvankhede/node_library",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0"
+  }
+}
